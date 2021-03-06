@@ -21,6 +21,7 @@ export default {
     BLOCK: '#DFE4F2',
     ICON: '#4A4A4A',
     WHITE: '#FFFFFF',
+    SECONDARY: "#A6700D"
   },
   SIZES: {
     BLOCK_SHADOW_RADIUS: 2,

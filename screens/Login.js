@@ -61,7 +61,7 @@ export default class LoginComponent extends React.Component {
                 shadowless
                 style={styles.signInButton}
                 color={materialTheme.COLORS.BUTTON_COLOR}
-                onPress={() => navigation.navigate('SignIn')}>
+                onPress={() => navigation.navigate('homepage')}>
                 Login
               </Button>
           </Block>
